@@ -1,2 +1,2 @@
 # LTC
-Winautomation XML sourcecode for LTC Projects
+XML sourcecode for LTC Projects
